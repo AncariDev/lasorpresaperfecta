@@ -1,0 +1,65 @@
+ [
+    {
+      "image":"product1.png",
+      "id":1,
+      "name": "La Sorpresa Especial",
+      "price": "$89000",
+      "items": "• Globo metalizado grande <br/>• Canasta <br/> • Mantel <br/>• Pareja peluche pequeño Up <br/>• Pocillo <br/>• Pin <br/>• Vaso pitillo lleno de dulces(Gomitas, chocobreaks y masmelos) <br/>• Coronita <br/>• Cerveza Budweiser en lata <br/>• Tobleron <br/>• Sneacker <br/>• Ferrero Rocher <br/>• Mani salado <br/>• Mani dulce  <br/>• Moño <br/>"
+    },
+   {
+      "image":"Desayuno1.jpg",
+      "id":2,
+      "name": "Desayuno Temático Pocillo",
+      "price": "$74000",
+      "items": "• Pocillo <br/>• Chocolate Ferrero Rochert <br/>• Foto en papel fotográfico <br/>• Botella con jugo *** <br/>• Yogurt 9 Onzas <br/>• Cereal *** <br/>• Sándwich de jamón y queso o empanadas *** <br/>• Galletas de sal *** <br/>• 2 globos grandes <br/>• Pin <br/>• Mantel o forro papel seda <br/>• Bandeja con patas"
+    },
+    {
+      "image":"Desayuno2.png",
+      "id":3,
+      "name": "Desayuno Temático Peluche",
+      "price": "$74000",
+      "items": "• Peluche mediano<br/>• Vaso pitillo con jugo ***<br/>• Yogurt 9 Onzas<br/>• Cereal ***<br/>• Sándwich de jamón y queso o empanadas ***<br/>• Galletas de sal ***<br/>• 2 globos grandes<br/>• Tarjeta<br/>• 1 Burbuja personalizada <br/>• Mantel <br/>• Bandeja con patas <br/>"
+    },
+    {
+      "image":"product2.png",
+      "id":4,
+      "name": "Sorpresa Maxi de Chocolates",
+      "price": "$85000",
+      "items": "• Bomba Grande<br/>• Moño<br/>• Pin<br/>• Peluche grande <br/>• Chocolatina Hershey<br/>• Maní salado<br/>• Maní La especial<br/>• Almendras<br/>• Nutella pequeña<br/>• Ferrero Rocher por 3und<br/>• Chocolatina Jet<br/>• Chocolatina Jumbo<br/>• Chocolate Snickers<br/>• Caja de madera y mantel"
+    },
+    {
+      "image":"product4.png",
+      "id":5,
+      "name": "Sorpresa El Valde Feliz",
+      "price": "$86000",
+      "items": "• Valde<br/>• Botella de Bailey´s<br/>• Coronita<br/>• Maní la especial<br/>• Salchicha Zenú<br/>• Pin<br/>• Globo metalizado mediano<br/>"
+    },
+    {
+      "image":"product6.png",
+      "id":6,
+      "name": "Sorpresa Mini de Chocolates",
+      "price": "$43000",
+      "items": "• Caja pequeña<br/>• Mantel<br/>• 2 bombas<br/>• Pin<br/>• Ferrero Rocher<br/>• Nutella pequeña<br/>• Peluche pequeño"
+    },
+    {
+      "image":"product3.png",
+      "id":7,
+      "name": "Sorpresa Duo de Amor",
+      "price": "$38000",
+      "items": "• Caja decorada para peluche pequeño<br/>• Peluche pequeño<br/>• Caja para coronita<br/>• Coronita<br/>• Globo metalizado mediano<br/>• Pin "
+    },
+    {
+      "image":"product5.png",
+      "id":8,
+      "name": "Sopresa Plan Romántico",
+      "price": "$85000",
+      "items": "• Caja decorada<br/>• Botella de Bayleys<br/>• Salchicha Zenú<br/>• Maní la Especial<br/>• Pin<br/>• Copa de Vino"
+    },
+    {
+      "image":"product7.png",
+      "id":9,
+      "name": "Sorpresa Amor a Rugidos",
+      "price": "$58000",
+      "items": "• Canasta<br/>• Mantel<br/>• León mediano<br/>• Vaso pitillo lleno de dulces(Gomitas, chocobreaks y masmelos) <br/>• Globo metalizado mediano<br/>• Pin<br/>• Chocolate Tobleron<br/>• Chocolate Ferrero Rocher por 3 und"
+    }
+  ]
