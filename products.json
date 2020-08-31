@@ -61,5 +61,40 @@
       "name": "Sorpresa Amor a Rugidos",
       "price": "$58000",
       "items": "• Canasta<br/>• Mantel<br/>• León mediano<br/>• Vaso pitillo lleno de dulces(Gomitas, chocobreaks y masmelos) <br/>• Globo metalizado mediano<br/>• Pin<br/>• Chocolate Tobleron<br/>• Chocolate Ferrero Rocher por 3 und"
+    },
+    {
+      "image":"product8.jpeg",
+      "id":10,
+      "name": "Desayuno Corazón",
+      "price": "$74000",
+      "items": ""
+    },
+     {
+      "image":"product9.jpeg",
+      "id":11,
+      "name": "Caja con Dulces Decorada",
+      "price": "$??",
+      "items": ""
+    },
+    {
+      "image":"product10.jpeg",
+      "id":12,
+      "name": "Sorpresa Tematica girl",
+      "price": "$??",
+      "items": ""
+    },
+    {
+      "image":"product11.jpeg",
+      "id":13,
+      "name": "Caja Sorpresa Tematica Boy",
+      "price": "$??",
+      "items": ""
+    },
+    {
+      "image":"product12.jpeg",
+      "id":14,
+      "name": "Sorpresa Bienvenida",
+      "price": "$??",
+      "items": ""
     }
   ]
