@@ -761,9 +761,12 @@ h2.title:before{
 }
 
 .brands-name {
+  font-size: large;
+  background-color: #F5A9BC;
   border: 1px solid #F7F7F0;
   padding-bottom: 20px;
   padding-top: 15px;
+  padding-left: 8px;
 }
 
 
@@ -906,6 +909,7 @@ h2.title {
 
 .productinfohome img{
   width: 200px;
+  height: 300px;
 }
 
 .productinfohome{
