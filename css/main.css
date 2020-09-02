@@ -762,7 +762,7 @@ h2.title:before{
 
 .brands-name {
   font-size: large;
-  background-color: #F5A9BC;
+  background-color: #F5A9BC important!;
   border: 1px solid #F7F7F0;
   padding-bottom: 20px;
   padding-top: 15px;
