@@ -760,6 +760,7 @@ h2.title:before{
 }
 
 .brands-name {
+  font-family: cursive;
   font-size: large;
   background-color: #F5A9BC;
   border: 1px solid #F7F7F0;
@@ -783,6 +784,7 @@ h2.title:before{
   background-color: #fff;
   color: #696763;
 }
+
 
 .shipping {
   background-color: #F2F2F2;
@@ -900,10 +902,10 @@ h2.title {
 }
 
 .productinfohome p{
-  font-family: 'Roboto', sans-serif;
-  font-size: 18px;
+  font-family: cursive;
+  font-size: 12px;
   font-weight: 400;
-  color: #0174DF;
+  color: #610B38;
 }
 
 .productinfohome img{

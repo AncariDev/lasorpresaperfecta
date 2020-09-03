@@ -1,100 +1,164 @@
- [
-    {
-      "image":"sorpresa1.png",
-      "id":1,
-      "name": "La Sorpresa Especial",
-      "price": "$89000",
-      "items": "• Globo metalizado grande <br/>• Canasta <br/> • Mantel <br/>• Pareja peluche pequeño Up <br/>• Pocillo <br/>• Pin <br/>• Vaso pitillo lleno de dulces(Gomitas, chocobreaks y masmelos) <br/>• Coronita <br/>• Cerveza Budweiser en lata <br/>• Tobleron <br/>• Sneacker <br/>• Ferrero Rocher <br/>• Mani salado <br/>• Mani dulce  <br/>• Moño <br/>"
-    },
+[
+  {
+    "image":["sorpresa1.png"],
+    "id":1,
+    "name": "La Sorpresa Especial",
+    "price": "$89000",
+    "items": "• Globo metalizado grande <br/>• Canasta <br/> • Mantel <br/>• Pareja peluche pequeño Up <br/>• Pocillo <br/>• Pin <br/>• Vaso pitillo lleno de dulces(Gomitas, chocobreaks y masmelos) <br/>• Coronita <br/>• Cerveza Budweiser en lata <br/>• Tobleron <br/>• Sneacker <br/>• Ferrero Rocher <br/>• Mani salado <br/>• Mani dulce  <br/>• Moño <br/>"
+  },
+ {
+    "image":["Desayuno1.jpg"],
+    "id":2,
+    "name": "Desayuno Temático Pocillo",
+    "price": "$74000",
+    "items": "• Pocillo <br/>• Chocolate Ferrero Rochert <br/>• Foto en papel fotográfico <br/>• Botella con jugo *** <br/>• Yogurt 9 Onzas <br/>• Cereal *** <br/>• Sándwich de jamón y queso o empanadas *** <br/>• Galletas de sal *** <br/>• 2 globos grandes <br/>• Pin <br/>• Mantel o forro papel seda <br/>• Bandeja con patas"
+  },
+  {
+    "image":["Desayuno2.jpg","Desayuno2-1.jpg"],
+    "id":3,
+    "name": "Desayuno Temático Peluche",
+    "price": "$74000",
+    "items": "• Peluche mediano<br/>• Vaso pitillo con jugo ***<br/>• Yogurt 9 Onzas<br/>• Cereal ***<br/>• Sándwich de jamón y queso o empanadas ***<br/>• Galletas de sal ***<br/>• 2 globos grandes<br/>• Tarjeta<br/>• 1 Burbuja personalizada <br/>• Mantel <br/>• Bandeja con patas <br/>"
+  },
+  {
+    "image":["sorpresa2.jpg"],
+    "id":4,
+    "name": "Sorpresa Maxi de Chocolates",
+    "price": "$85000",
+    "items": "• Bomba Grande<br/>• Moño<br/>• Pin<br/>• Peluche grande <br/>• Chocolatina Hershey<br/>• Maní salado<br/>• Maní La especial<br/>• Almendras<br/>• Nutella pequeña<br/>• Ferrero Rocher por 3und<br/>• Chocolatina Jet<br/>• Chocolatina Jumbo<br/>• Chocolate Snickers<br/>• Caja de madera y mantel"
+  },
+  {
+    "image":["sorpresa4.jpg"],
+    "id":5,
+    "name": "Sorpresa El Valde Feliz",
+    "price": "$86000",
+    "items": "• Valde<br/>• Botella de Bailey´s<br/>• Coronita<br/>• Maní la especial<br/>• Salchicha Zenú<br/>• Pin<br/>• Globo metalizado mediano<br/>"
+  },
+  {
+    "image":["sorpresa6.jpg"],
+    "id":6,
+    "name": "Sorpresa Mini de Chocolates",
+    "price": "$43000",
+    "items": "• Caja pequeña<br/>• Mantel<br/>• 2 bombas<br/>• Pin<br/>• Ferrero Rocher<br/>• Nutella pequeña<br/>• Peluche pequeño"
+  },
+  {
+    "image":["sorpresa3.jpg"],
+    "id":7,
+    "name": "Sorpresa Duo de Amor",
+    "price": "$38000",
+    "items": "• Caja decorada para peluche pequeño<br/>• Peluche pequeño<br/>• Caja para coronita<br/>• Coronita<br/>• Globo metalizado mediano<br/>• Pin "
+  },
+  {
+    "image":["sorpresa5.jpg"],
+    "id":8,
+    "name": "Sopresa Plan Romántico",
+    "price": "$85000",
+    "items": "• Caja decorada<br/>• Botella de Bayleys<br/>• Salchicha Zenú<br/>• Maní la Especial<br/>• Pin<br/>• Copa de Vino"
+  },
+  {
+    "image":["sorpresa7.jpg"],
+    "id":9,
+    "name": "Sorpresa Amor a Rugidos",
+    "price": "$58000",
+    "items": "• Canasta<br/>• Mantel<br/>• León mediano<br/>• Vaso pitillo lleno de dulces(Gomitas, chocobreaks y masmelos) <br/>• Globo metalizado mediano<br/>• Pin<br/>• Chocolate Tobleron<br/>• Chocolate Ferrero Rocher por 3 und"
+  },
+  {
+    "image":["sorpresa8.jpeg"],
+    "id":10,
+    "name": "Desayuno Corazón",
+    "price": "$74000",
+    "items": "• Pocillo <br/>• Chocolate Ferrero Rochert <br/>• Foto en papel fotográfico <br/>• Botella con jugo *** <br/>• Yogurt 9 Onzas <br/>• Cereal *** <br/>• Sándwich de jamón y queso o empanadas *** <br/>• Galletas de sal *** <br/>• 2 globos grandes <br/>• Pin <br/>• Mantel o forro papel seda <br/>• Bandeja con patas"
+  },
    {
-      "image":"Desayuno1.jpg",
-      "id":2,
-      "name": "Desayuno Temático Pocillo",
-      "price": "$74000",
-      "items": "• Pocillo <br/>• Chocolate Ferrero Rochert <br/>• Foto en papel fotográfico <br/>• Botella con jugo *** <br/>• Yogurt 9 Onzas <br/>• Cereal *** <br/>• Sándwich de jamón y queso o empanadas *** <br/>• Galletas de sal *** <br/>• 2 globos grandes <br/>• Pin <br/>• Mantel o forro papel seda <br/>• Bandeja con patas"
-    },
-    {
-      "image":"Desayuno2.png",
-      "id":3,
-      "name": "Desayuno Temático Peluche",
-      "price": "$74000",
-      "items": "• Peluche mediano<br/>• Vaso pitillo con jugo ***<br/>• Yogurt 9 Onzas<br/>• Cereal ***<br/>• Sándwich de jamón y queso o empanadas ***<br/>• Galletas de sal ***<br/>• 2 globos grandes<br/>• Tarjeta<br/>• 1 Burbuja personalizada <br/>• Mantel <br/>• Bandeja con patas <br/>"
-    },
-    {
-      "image":"sorpresa2.png",
-      "id":4,
-      "name": "Sorpresa Maxi de Chocolates",
-      "price": "$85000",
-      "items": "• Bomba Grande<br/>• Moño<br/>• Pin<br/>• Peluche grande <br/>• Chocolatina Hershey<br/>• Maní salado<br/>• Maní La especial<br/>• Almendras<br/>• Nutella pequeña<br/>• Ferrero Rocher por 3und<br/>• Chocolatina Jet<br/>• Chocolatina Jumbo<br/>• Chocolate Snickers<br/>• Caja de madera y mantel"
-    },
-    {
-      "image":"sorpresa4.png",
-      "id":5,
-      "name": "Sorpresa El Valde Feliz",
-      "price": "$86000",
-      "items": "• Valde<br/>• Botella de Bailey´s<br/>• Coronita<br/>• Maní la especial<br/>• Salchicha Zenú<br/>• Pin<br/>• Globo metalizado mediano<br/>"
-    },
-    {
-      "image":"sorpresa6.png",
-      "id":6,
-      "name": "Sorpresa Mini de Chocolates",
-      "price": "$43000",
-      "items": "• Caja pequeña<br/>• Mantel<br/>• 2 bombas<br/>• Pin<br/>• Ferrero Rocher<br/>• Nutella pequeña<br/>• Peluche pequeño"
-    },
-    {
-      "image":"sorpresa3.png",
-      "id":7,
-      "name": "Sorpresa Duo de Amor",
-      "price": "$38000",
-      "items": "• Caja decorada para peluche pequeño<br/>• Peluche pequeño<br/>• Caja para coronita<br/>• Coronita<br/>• Globo metalizado mediano<br/>• Pin "
-    },
-    {
-      "image":"sorpresa5.png",
-      "id":8,
-      "name": "Sopresa Plan Romántico",
-      "price": "$85000",
-      "items": "• Caja decorada<br/>• Botella de Bayleys<br/>• Salchicha Zenú<br/>• Maní la Especial<br/>• Pin<br/>• Copa de Vino"
-    },
-    {
-      "image":"sorpresa7.png",
-      "id":9,
-      "name": "Sorpresa Amor a Rugidos",
-      "price": "$58000",
-      "items": "• Canasta<br/>• Mantel<br/>• León mediano<br/>• Vaso pitillo lleno de dulces(Gomitas, chocobreaks y masmelos) <br/>• Globo metalizado mediano<br/>• Pin<br/>• Chocolate Tobleron<br/>• Chocolate Ferrero Rocher por 3 und"
-    },
-    {
-      "image":"sorpresa8.jpeg",
-      "id":10,
-      "name": "Desayuno Corazón",
-      "price": "$74000",
-      "items": ""
-    },
-     {
-      "image":"sorpresa9.jpg",
-      "id":11,
-      "name": "Caja Dulcera",
-      "price": "$15000 - 18000",
-      "items": "La caja puede venir con diseño o personalizada con nombre o mensaje corto. <br/> Contamos con dos tamaños, pequeña y grande <br/> • Gomitas en su variedad <br/> • Masmelos <br/> • Chomelos"
-    },
-    {
-      "image":"sorpresa10.jpeg",
-      "id":12,
-      "name": "Sorpresa Tematica Kits",
-      "price": "$79000",
-      "items": "• Guirnalda de Bomba pequeña<br/>• Peluche mediano ((unicornio))<br/>• Globo metalizado Cumple<br/>• Globo metalizado ((unicornio))<br/>• Vaso pitillo grande ((unicornio))<br/>• Moño grande<br/>• Bandeja con patas movibles<br/>• Decoración y nombre del niño <br/>• Nucita <br/>• Chocobreak<br/>• Galleta grande y mini<br/>• Chocolatina grande y mini<br/>• Jugo hit<br/>• Bonyurt<br/>• Gomas grandes y aros<br/>• Monedas<br/>• Fruta a elección<br/> Pudedes escojer el personaje o tematica que más Te guste!!🤗"
-    },
-    {
-      "image":"sorpresa11.jpg",
-      "id":13,
-      "name": "Caja Sorpresa",
-      "price": "$80000",
-      "items": "• Caja grande de cartón <br/>• 15 fotos pequeñas en papel fotográfico<br/>• Mini banderín<br/>• Decoración personalizada<br/>• Torta tamaño personal<br/>• Golosinas a elección<br/>• Trébol<br/>• Globo metalizado<br/>** Opción luces en la caja $10.000 Adicional<br/>Golosinas a elección"
-    },
-    {
-      "image":"sorpresa12.jpg",
-      "id":14,
-      "name": "Sorpresa Bienvenida",
-      "price": "$99000",
-      "items": "• 3 fotos pequeñas papel fotográfico <br/>• Burbuja personalizada <br/>• Bomba <br/>• Pin<br/>• Chocolatina Hershey<br/>• Maní salado<br/>• Maní La especial<br/>• Almendras<br/>• Nutella pequeña<br/>• Caja de madera y mantel<br/>• Pocillo <br/>• Vaso pitillo lleno de dulces (Gomitas, chocobreaks y masmelos) <br/>• Coronita<br/>• Cerveza Budweiser en lata"
-    }
-  ]
+    "image":["sorpresa9.jpg","sorpresa9-1.jpeg"],
+    "id":11,
+    "name": "Caja Dulcera",
+    "price": "$15000 - 18000",
+    "items": "La caja puede venir con diseño o personalizada con nombre o mensaje corto. <br/> Contamos con dos tamaños, pequeña y grande <br/> • Gomitas en su variedad <br/> • Masmelos <br/> • Chomelos"
+  },
+  {
+    "image":["sorpresa10.jpeg"],
+    "id":12,
+    "name": "Sorpresa Tematica Kits",
+    "price": "$79000",
+    "items": "• Guirnalda de Bomba pequeña<br/>• Peluche mediano ((unicornio))<br/>• Globo metalizado Cumple<br/>• Globo metalizado ((unicornio))<br/>• Vaso pitillo grande ((unicornio))<br/>• Moño grande<br/>• Bandeja con patas movibles<br/>• Decoración y nombre del niño <br/>• Nucita <br/>• Chocobreak<br/>• Galleta grande y mini<br/>• Chocolatina grande y mini<br/>• Jugo hit<br/>• Bonyurt<br/>• Gomas grandes y aros<br/>• Monedas<br/>• Fruta a elección<br/> Pudedes escojer el personaje o tematica que más Te guste!!🤗"
+  },
+  {
+    "image":["sorpresa11.jpeg","sorpresa11-1.jpeg"],
+    "id":13,
+    "name": "Caja Sorpresa",
+    "price": "$80000",
+    "items": "• Caja grande de cartón <br/>• 15 fotos pequeñas en papel fotográfico<br/>• Mini banderín<br/>• Decoración personalizada<br/>• Torta tamaño personal<br/>• Golosinas a elección<br/>• Trébol<br/>• Globo metalizado<br/>** Opción luces en la caja $10.000 Adicional<br/>Golosinas a elección"
+  },
+  {
+    "image":["sorpresa12.jpg"],
+    "id":14,
+    "name": "Sorpresa Bienvenida",
+    "price": "$99000",
+    "items": "• 3 fotos pequeñas papel fotográfico <br/>• Burbuja personalizada <br/>• Bomba <br/>• Pin<br/>• Chocolatina Hershey<br/>• Maní salado<br/>• Maní La especial<br/>• Almendras<br/>• Nutella pequeña<br/>• Caja de madera y mantel<br/>• Pocillo <br/>• Vaso pitillo lleno de dulces (Gomitas, chocobreaks y masmelos) <br/>• Coronita<br/>• Cerveza Budweiser en lata"
+  },
+  {
+    "image":["sorpresa13.jpeg","sorpresa13-1.jpeg"],
+    "id":15,
+    "name": "Desayuno Estándar Amarillo",
+    "price": "$48000",
+    "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
+  },
+  {
+    "image":["sorpresa14.jpeg","sorpresa14-1.jpeg"],
+    "id":16,
+    "name": "Desayuno Estándar Rosa",
+    "price": "$48000",
+    "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
+  },
+  {
+    "image":["sorpresa15.jpeg","sorpresa15-1.jpeg"],
+    "id":17,
+    "name": "Desayuno Estándar Azul",
+    "price": "$48000",
+    "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
+  },
+  {
+    "image":["sorpresa16.jpeg","sorpresa16-1.jpeg"],
+    "id":18,
+    "name": "Desayuno Estándar Rojo",
+    "price": "$48000",
+    "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
+  },
+  {
+    "image":["sorpresa17.jpeg","sorpresa17-1.jpeg"],
+    "id":19,
+    "name": "Desayuno Burbuja Negro",
+    "price": "$48000",
+    "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
+  },
+  {
+    "image":["sorpresa18.jpeg","sorpresa18-1.jpeg"],
+    "id":20,
+    "name": "Desayuno Burbuja Dorado",
+    "price": "$48000",
+    "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
+  },
+  {
+    "image":["sorpresa19.jpeg","sorpresa19-1.jpeg"],
+    "id":21,
+    "name": "Desayuno Burbuja Plateado",
+    "price": "$48000",
+    "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
+  },
+  {
+    "image":["sorpresa20.jpeg","sorpresa20-1.jpeg"],
+    "id":22,
+    "name": "Sorpresa Cumpleaños",
+    "price": "$48000",
+    "items": "• Globo personalizado <br/>• Guirnalda de bombas mini <br/>• Banderin<br/>• Masmelos<br/>• Gomitas<br/>• Minioreo<br/>• Alpin<br/>• Cereal<br/>• Yogurt<br/>• Bonyurt<br/>• Gelatina<br/>• Nutella<br/>• Mini chocorramo<br/>• Galletas<br/>• Nucita<br/>• Fruta<br/>• Huevo kinder (<br/>• Pancakes o Sandwich<br/>• Muñeco Squishy <br/>• Decoración moños, mantel y bandeja patas móviles"
+  },
+  {
+    "image":["sorpresa21.jpeg","sorpresa21-1.jpeg"],
+    "id":23,
+    "name": "Sorpresa Globo",
+    "price": "$65000",
+    "items": "• Valde <br/>• Globo burbuja<br/>• Cerveza Importada grande<br/>• Cerveza Importada pequeña<br/>• Salchicha Zenú<br/>• Chocolate Toblerone<br/>• Mami la especial<br/>• Chocolatina importada"
+  }
+
+]
