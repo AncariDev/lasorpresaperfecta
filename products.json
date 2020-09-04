@@ -9,22 +9,22 @@
  {
     "image":["Desayuno1.jpg"],
     "id":2,
-    "name": "Desayuno Temático Pocillo",
-    "price": "$74000",
-    "items": "• Pocillo <br/>• Chocolate Ferrero Rochert <br/>• Foto en papel fotográfico <br/>• Botella con jugo *** <br/>• Yogurt 9 Onzas <br/>• Cereal *** <br/>• Sándwich de jamón y queso o empanadas *** <br/>• Galletas de sal *** <br/>• 2 globos grandes <br/>• Pin <br/>• Mantel o forro papel seda <br/>• Bandeja con patas"
+    "name": "Desayuno Recuerdos",
+    "price": "$66000",
+    "items": "• Pocillo <br/>• Chocolate Ferrero Rochert <br/>• Foto en papel fotográfico <br/>• Botella con jugo *** <br/>• Yogurt 9 Onzas <br/>• Cereal *** <br/>• Sándwich de jamón y queso *** <br/>• Galletas de sal *** <br/>• 2 globos grandes <br/>• Pin <br/>• Decoración (Mantel y moños) <br/>• Bandeja con patas móviles"
   },
   {
     "image":["Desayuno2.jpg","Desayuno2-1.jpg"],
     "id":3,
-    "name": "Desayuno Temático Peluche",
-    "price": "$74000",
-    "items": "• Peluche mediano<br/>• Vaso pitillo con jugo ***<br/>• Yogurt 9 Onzas<br/>• Cereal ***<br/>• Sándwich de jamón y queso o empanadas ***<br/>• Galletas de sal ***<br/>• 2 globos grandes<br/>• Tarjeta<br/>• 1 Burbuja personalizada <br/>• Mantel <br/>• Bandeja con patas <br/>"
+    "name": "Desayuno Felicidad",
+    "price": "$69000",
+    "items": "• Peluche mediano<br/>• Vaso pitillo con jugo ***<br/>• Yogurt 9 Onzas<br/>• Cereal ***<br/>• Empanadas ***<br/>• Galletas de sal ***<br/>• 2 globos grandes<br/>• Tarjeta<br/>• 1 Burbuja personalizada <br/>• Decoración (mantel y moños)  <br/>• Bandeja con patas móviles "
   },
   {
     "image":["sorpresa2.jpg"],
     "id":4,
-    "name": "Sorpresa Maxi de Chocolates",
-    "price": "$85000",
+    "name": "Sorpresa Oso Maxxi Chocolates",
+    "price": "$79000",
     "items": "• Bomba Grande<br/>• Moño<br/>• Pin<br/>• Peluche grande <br/>• Chocolatina Hershey<br/>• Maní salado<br/>• Maní La especial<br/>• Almendras<br/>• Nutella pequeña<br/>• Ferrero Rocher por 3und<br/>• Chocolatina Jet<br/>• Chocolatina Jumbo<br/>• Chocolate Snickers<br/>• Caja de madera y mantel"
   },
   {
@@ -66,8 +66,8 @@
     "image":["sorpresa8.jpeg"],
     "id":10,
     "name": "Desayuno Corazón",
-    "price": "$74000",
-    "items": "• Pocillo <br/>• Chocolate Ferrero Rochert <br/>• Foto en papel fotográfico <br/>• Botella con jugo *** <br/>• Yogurt 9 Onzas <br/>• Cereal *** <br/>• Sándwich de jamón y queso o empanadas *** <br/>• Galletas de sal *** <br/>• 2 globos grandes <br/>• Pin <br/>• Mantel o forro papel seda <br/>• Bandeja con patas"
+    "price": "$66000",
+    "items": "• Pocillo <br/>• Chocolate Ferrero Rochert <br/>• Foto en papel fotográfico <br/>• Botella con jugo *** <br/>• Yogurt 9 Onzas <br/>• Cereal *** <br/>• Sándwich de jamón y queso *** <br/>• Galletas de sal *** <br/>• 3 globos <br/>• Fruta entera  <br/>• Pin <br/>• Decoración (Mantel y moños) <br/>• Bandeja con patas móviles"
   },
    {
     "image":["sorpresa9.jpg","sorpresa9-1.jpeg"],
@@ -100,51 +100,51 @@
   {
     "image":["sorpresa13.jpeg","sorpresa13-1.jpeg"],
     "id":15,
-    "name": "Desayuno Estándar Amarillo",
+    "name": "Desayuno Cotidiano Amarillo",
     "price": "$48000",
     "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
   },
   {
     "image":["sorpresa14.jpeg","sorpresa14-1.jpeg"],
     "id":16,
-    "name": "Desayuno Estándar Rosa",
+    "name": "Desayuno Cotidiano Rosa",
     "price": "$48000",
     "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
   },
   {
     "image":["sorpresa15.jpeg","sorpresa15-1.jpeg"],
     "id":17,
-    "name": "Desayuno Estándar Azul",
+    "name": "Desayuno Cotidiano Azul",
     "price": "$48000",
     "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
   },
   {
     "image":["sorpresa16.jpeg","sorpresa16-1.jpeg"],
     "id":18,
-    "name": "Desayuno Estándar Rojo",
+    "name": "Desayuno Cotidiano Rojo",
     "price": "$48000",
     "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
   },
   {
     "image":["sorpresa17.jpeg","sorpresa17-1.jpeg"],
     "id":19,
-    "name": "Desayuno Burbuja Negro",
-    "price": "$48000",
-    "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
+    "name": "Desayuno Papá + foto",
+    "price": "$76000",
+    "items": "• 1 Globo <br/>• Globo Burbuja<br/>• Pocillo<br/>• Chocolate <br/>• Foto en papel fotográfico <br/>• 2 Pines<br/>• Cerveza Importada<br/>• Milo<br/>• Vaso pitillo con jugo <br/>• Yogurt 9 Onzas<br/>• Cereal<br/>• Sándwich de jamón y queso<br/>• Fruta entera<br/>• Decoración (Mantel y moños)<br/>• Bandeja con patas móviles<br/>"
   },
   {
     "image":["sorpresa18.jpeg","sorpresa18-1.jpeg"],
     "id":20,
-    "name": "Desayuno Burbuja Dorado",
-    "price": "$48000",
-    "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
+    "name": "Desayuno Gold",
+    "price": "$66000",
+    "items": "• 1 Globo<br/>• Globo Burbuja<br/>• Pocillo<br/>• Chocolate <br/>• Pin<br/>• Yogurt 9 Onzas<br/>• Cereal<br/>• Arepa de huevo<br/>• Fruta entera<br/>• Decoración (Mantel y moños)<br/>• Bandeja con patas móviles"
   },
   {
     "image":["sorpresa19.jpeg","sorpresa19-1.jpeg"],
     "id":21,
-    "name": "Desayuno Burbuja Plateado",
-    "price": "$48000",
-    "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
+    "name": "Desayuno Platino",
+    "price": "$76000",
+    "items": "• Globo metalizado<br/>• Adorno flores artificiales<br/>• Cereal<br/>• Yogur<br/>• Avena<br/>• Fruta en porción y entera<br/>• Empanadas<br/>• Te Hatsu<br/>• Jugo de naranja<br/>• Chocolatina importada<br/>• Bandeja patas móviles"
   },
   {
     "image":["sorpresa20.jpeg","sorpresa20-1.jpeg"],
@@ -159,6 +159,12 @@
     "name": "Sorpresa Globo",
     "price": "$65000",
     "items": "• Valde <br/>• Globo burbuja<br/>• Cerveza Importada grande<br/>• Cerveza Importada pequeña<br/>• Salchicha Zenú<br/>• Chocolate Toblerone<br/>• Mami la especial<br/>• Chocolatina importada"
+  },
+  {
+    "image":["sorpresa22.jpeg","sorpresa22-1.jpeg"],
+    "id":24,
+    "name": "Sorpresa Vintage",
+    "price": "$69000",
+    "items": "• Té Hatsu<br/>• Jugo  <br/>• Cereal <br/>• Fruta picada <br/>• Fruta en porción <br/>• Fruta entera<br/>• Galletas <br/>• Postre  <br/>• Sandwich <br/>• Decoración en fique <br/>• Matera artificial <br/>• Luces<br/>• Bandeja "
   }
-
 ]
