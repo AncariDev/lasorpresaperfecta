@@ -759,10 +759,17 @@ h2.title:before{
   text-transform: uppercase;
 }
 
-.brands-name {
+.maintitle {
+  color: #3B0B24;
   font-family: cursive;
-  font-size: large;
-  background-color: #F5A9BC;
+  font-size: 45px;
+  float: right!important
+}
+
+.brands-name {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+  background-color: #F2E0F7;
   border: 1px solid #F7F7F0;
   padding-bottom: 20px;
   padding-top: 15px;
