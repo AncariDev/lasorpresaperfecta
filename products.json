@@ -187,5 +187,61 @@
     "name": "Sorpresa Goku",
     "price": "$89000",
     "items": "• Globo figura <br/>• Globo metalizado<br/>• Cuadro <br/>• 1 Pocillo personalizado<br/>• 1  Caja Lego<br/>• 2 llaveros <br/>• 1 Pin<br/>• 1 Banderín<br/>• Bonyurt<br/>• Alpin<br/>• M&M<br/>• Kinder sorpresa<br/>• Masmelos, gomitas, chocobreaks y Mini chocorramo<br/>• Gomitas <br/>• Cereal<br/>• Sandwich o postre<br/>• Caja personalizada y decoración"
+  },
+  {
+    "image":["sorpresa26.jpeg","sorpresa26-1.jpg"],
+    "id":28,
+    "name": "Sorpresa Corazon Divino",
+    "price": "Desde $75.000",
+    "items": "•  Caja decorada<br/>•  Champagne 200 Ml<br/>•  Piccolo de vino <br/>•  Botella de vino 750Ml<br/>•  Chocolate Ferrero Rocher<br/><br/>•  Combinalo como quieras!<br/><br/>•  Opción 1 <br/>•  Reservado + 2 Ferrero x3 + Ferrero x 4 $75.000<br/><br/>•  Opción 2<br/>•  Champagne 200 Ml + Ferrero x 4 + 2 Ferrero x 3 + Piccolo de vino $87.000<br/><br/>•  Opción 3<br/>•  Champagne 200Ml + Ferrero x 12 Valor $79.000"
+  },
+  {
+    "image":["sorpresa27.jpeg","sorpresa27-1.jpeg"],
+    "id":29,
+    "name": "Sorpresa Spiderman",
+    "price": "$80000",
+    "items": "•  Caja decorada y personalizada al gusto<br/>•  Postre de tamaño personal"
+  },
+  {
+    "image":["desayuno28.jpeg","desayuno28-1.jpeg"],
+    "id":30,
+    "name": "Desayuno Con Flores",
+    "price": "$95000",
+    "items": "•  Bandeja decorada <br/>•  Arreglo pequeño de flores <br/>•  Globos <br/>•  Burbuja personalizada <br/>•  Números <br/>•  Chocolatina Hershey <br/>•  Chocolates Ferrero Rocher por 3 und <br/>•  Chocolates MyM <br/>•  Jugo de naranja 100% natural <br/>•  Fruta porcionada <br/>•  Fruta entera"
+  },
+  {
+    "image":["desayuno29.jpeg","desayuno29-1.jpeg"],
+    "id":31,
+    "name": "Desayuno Con Torta",
+    "price": "$115000",
+    "items": "•  Bandeja decorada <br/>•  Torta para 8 pax <br/>•  Tamal <br/>•  Jugo de naranja 100% Natural <br/>•  Flores artificiales <br/>•  Globos <br/>•  Burbuja personalizada  <br/>•  Maní <br/>•  Fruta porcionada <br/>•  fruta entera <br/>•  Chocolates importados "
+  },
+  {
+    "image":["sorpresa30.jpeg"],
+    "id":32,
+    "name": " Sorpresa Safari",
+    "price": "$48000",
+    "items": "•  Globo animal print<br/>•  Globo personalizado<br/>•  Vaso pitillo<br/>•  Milo<br/>•  Bonyurth<br/>•  Galletas<br/>•  Barquillos<br/>•  Golosinas  (Nucita, chocobreack, gomitas, kimbayas, mini chocorramo)<br/>•  Caja decorada con animalitos  "
+  },
+  {
+    "image":["sorpresa31.jpeg"],
+    "id":33,
+    "name": " Sorpresa Corazón Pequeño",
+    "price": "$55000",
+    "items": "•  Globo animal print<br/>•  Globo personalizado<br/>•  Vaso pitillo<br/>•  Milo<br/>•  Bonyurth<br/>•  Galletas<br/>•  Barquillos<br/>•  Golosinas  (Nucita, chocobreack, gomitas, kimbayas, mini chocorramo)<br/>•  Caja decorada con animalitos  "
+  },
+  {
+    "image":["desayuno32.jpeg"],
+    "id":34,
+    "name": "Desayuno Unicornio",
+    "price": "$79000",
+    "items": "• Bandeja decorada<br/>• Globo personalizado<br/>• Globo metalizado unicornio<br/>• Vaso pitillo con golosinas (masmelos, gomitas <br/>• choco breacks, mini chocorramo, quimbayas)<br/>• Agenda<br/>• Lámpara Unicornio<br/>• Gelatina<br/>• Bonyurth<br/>• Galletas<br/>• Jugo en caja<br/>• Fruta porcionada<br/>• Fruta entera<br/>• Sandwich de jamon y queso"
+  },
+  {
+    "image":["desayuno33.jpeg"],
+    "id":35,
+    "name": "Desayuno Saludable",
+    "price": "$54000",
+    "items": "• Bandeja<br/>• Mantel<br/>• Globo personalizado<br/>• Pin<br/>• Maní<br/>• Galletas integrales<br/>• Vaso pitillo con jugo 100% natural<br/>• Fruta porcionada<br/>• Fruta entera<br/>• Sándwich integral "
   }
 ]
