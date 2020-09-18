@@ -243,5 +243,26 @@
     "name": "Desayuno Saludable",
     "price": "$54000",
     "items": "• Bandeja<br/>• Mantel<br/>• Globo personalizado<br/>• Pin<br/>• Maní<br/>• Galletas integrales<br/>• Vaso pitillo con jugo 100% natural<br/>• Fruta porcionada<br/>• Fruta entera<br/>• Sándwich integral "
+  },
+  {
+    "image":["sorpresa32.jpeg", "sorpresa32-1.jpeg"],
+    "id":36,
+    "name": "Sorpresa Peluche Vintage",
+    "price": "$79000",
+    "items": "• Bandeja<br/>• Luces<br/>• Peluche mediano<br/>• Te Hatsu<br/>• Jugo 100%Natural<br/>• Yogurth<br/>• Cereal<br/>• Galletas<br/>• Fruta entera<br/>• Fruta porcionada<br/>• Postre <br/>• Globo <br/>• Pin"
+  },
+  {
+    "image":["desayuno34.jpeg", "desayuno34-1.jpeg"],
+    "id":37,
+    "name": "Sorpresa Puro Amor",
+    "price": "$98000",
+    "items": "• Bandeja decorada<br/>• Arreglo de globos <br/>• Burbuja personalizada<br/>• Fruta entera<br/>• Fruta porcionada<br/>• Tamal<br/>• Jugo 100% Natural<br/>• Planta Natural<br/>• Chocolates Ferrero Rocher X 3 und <br/>• Peluche mediano"
+  },
+  {
+    "image":["sorpresa33.jpeg", "sorpresa33-1.jpeg"],
+    "id":38,
+    "name": "Onces Sorpresa Duff",
+    "price": "$79000",
+    "items": "• Globos<br/>• Caja personalizada<br/>• Adorno de cerveza con llavero<br/>• Cerveza en lata<br/>• Coca cola en lata<br/>• Lata de Salchicha Zenú<br/>• Papas Pringles pequeñas<br/>• Maní<br/>• Galletas de sal<br/>• Manzana<br/>• Chocolatina Milkyway<br/>• Dos arepas de huevo"
   }
 ]
