@@ -271,5 +271,40 @@
     "name": "Sorpresa Puro Amor Jumbo",
     "price": "$118000",
     "items": "• Bandeja decorada<br/>• Arreglo de globos <br/>• Burbuja personalizada<br/>• Fruta entera<br/>• Fruta porcionada<br/>• Sandwich<br/>• Jugo 100% Natural<br/>• Chocolates Ferrero Rocher X 3 und   <br/>• Chocolatina Snickers<br/>• Peluche grande<br/>• Ramo de Flores"
+  },
+  {
+    "image":["sorpresa36.jpeg", "sorpresa36-1.jpeg"],
+    "id":40,
+    "name": "Sorpresa tematica Jhonny Bravo",
+    "price": "$65000",
+    "items": "• Balde pequeño<br/>• Globo pequeño<br/>• Globo mediano, simulacion de Globo aerostatico<br/>• Decoración tématica<br/>• Pin<br/>• Pringles grandes<br/>• Mani la especial<br/>• Salcichas Zenú pequeña<br/>• M&Ms<br/>• Coronita"
+  },
+  {
+    "image":["sorpresa37.jpeg", "sorpresa37-1.jpeg"],
+    "id":41,
+    "name": "Sorpresa Beauty",
+    "price": "$55000",
+    "items": "• Globo burbuja con globos artificailes dentro<br/>• Trebol de globos metalizados<br/>• Arreglo de flores artificiales con mariposas<br/>• Chocolates"
+  },
+  {
+    "image":["desayuno38.jpeg", "desayuno38-1.jpeg"],
+    "id":42,
+    "name": "Desayuno Fuccia",
+    "price": "$109000",
+    "items": "• Bandeja personalizada<br/>• Globo burbuja personalizado<br/>• Bomba<br/>• Globo metalizado mini<br/>• Planta artificiales<br/>• Pocillo magico personalizado (fotos y mensaje a gusto)<br/>• Crepes al gusto<br/>• Arepa de queso<br/>• Croissant de queso<br/>• Fruta entera<br/>• Fruta porcionada<br/>• Jugo de naranja 100% natural<br/>• Chocolate caliente"
+  },
+  {
+    "image":["desayuno39.jpeg", "desayuno39-1.jpeg"],
+    "id":43,
+    "name": "Desayuno temático Vallenato",
+    "price": "$60000",
+    "items": "• Globo metalico<br/>• Bomba metalizada<br/>• Pin<br/>• Decoracipon temática<br/>• Jugo de naranja 100% natural<br/>• Sandwich de jamón y queso<br/>• Fruta entera<br/>• Avena<br/>• Galletas<br/>• Barquillos<br/>• Cerveza Budwiser<br/>• Cerveza Coronita<br/>• Salchichas Zenú"
+  },
+  {
+    "image":["desayuno40.jpeg", "desayuno40-1.jpeg"],
+    "id":44,
+    "name": "Desayuno Oro Negro",
+    "price": "$1160000",
+    "items": "• Bandeja decorada<br/>• Globo metálico<br/>• Globo metalizado<br/>• Pin<br/>• Matera artificial<br/>• Mug mágico personalizado (fotos y mensaje)<br/>• Fruta entera<br/>• Fruta porcionada<br/>• Milo frío<br/>• Jugo de naranja 100% natural<br/>• Crosissanes<br/>• Porción de queso<br/>• Crepes al gusto"
   }
 ]
