@@ -71,6 +71,10 @@
 	width: 50%;
 }
 
+.tab-pane .col-sm-30, .features_items {
+	width: 50%;
+}
+
 .footer-widget .col-sm-2{
 	width: 33%;
 	display: inline-block;
@@ -78,6 +82,11 @@
 }
 
 .footer-widget .col-sm-3{
+	display: inline-block;
+	width: 40%;
+}
+
+.footer-widget .col-sm-30{
 	display: inline-block;
 	width: 40%;
 }
@@ -226,6 +235,11 @@ ul.sub-menu{
 	top: 38px;
 }
 
+.header-bottom .col-sm-30 {
+	left: 0;
+	top: 38px;
+}
+
 #slider-carousel .item{
 	padding-left: 0;
 }
@@ -239,6 +253,11 @@ ul.sub-menu{
 }
 
 .footer-top .col-sm-7 .col-sm-3{
+	width: 50%;
+	float: left;
+}
+
+.footer-top  .col-sm-30{
 	width: 50%;
 	float: left;
 }
@@ -257,6 +276,10 @@ ul.sub-menu{
 }
 
 .footer-widget .col-sm-3{
+	display: inline-block;
+}
+
+.footer-widget .col-sm-30{
 	display: inline-block;
 }
 

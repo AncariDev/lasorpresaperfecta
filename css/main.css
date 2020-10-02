@@ -714,9 +714,9 @@ h2.title:before{
 }
 
 .category-products .panel-default .panel-heading {
-  background-color: #FFFFFF;
-  border: 0 none;
-  color: #FFFFFF;
+  background-color: #ee57bb;
+  border: 1px;
+  color: #000;
   padding: 5px 20px;
 }
 

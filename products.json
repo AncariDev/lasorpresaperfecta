@@ -306,5 +306,19 @@
     "name": "Desayuno Oro Negro",
     "price": "$1160000",
     "items": "• Bandeja decorada<br/>• Globo metálico<br/>• Globo metalizado<br/>• Pin<br/>• Matera artificial<br/>• Mug mágico personalizado (fotos y mensaje)<br/>• Fruta entera<br/>• Fruta porcionada<br/>• Milo frío<br/>• Jugo de naranja 100% natural<br/>• Crosissanes<br/>• Porción de queso<br/>• Crepes al gusto"
+  },
+  {
+    "image":["sorpresa41.jpeg", "sorpresa41-1.jpeg"],
+    "id":45,
+    "name": "Sorpresa Brunch Time!!! ",
+    "price": "$950000",
+    "items": "• Bandeja decorada<br/>• Globos<br/>• Pin<br/>• Mug <br/>• Pizza tamaño personal<br/>• Fruta porcionada<br/>• Fruta entera<br/>• Pringles pequeñas<br/>• Coca-Cola en lata<br/>• Coronita• Salchicha Zenú Pequeña<br/>• Mini Baileys"
+  },
+  {
+    "image":["desayuno42.jpeg", "desayuno42-1.jpeg"],
+    "id":46,
+    "name": "Desayuno Saludable ",
+    "price": "$560000",
+    "items": "• Bandeja<br/>• Mantel<br/>• Globo personalizado<br/>• Pin<br/>• Maní<br/>• Galletas integrales<br/>• Vaso pitillo con jugo 100% natural<br/>• Fruta porcionada<br/>• Fruta entera<br/>• Sándwich integral "
   }
 ]
