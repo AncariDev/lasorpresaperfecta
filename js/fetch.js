@@ -15,13 +15,15 @@ function cargaDesayunos(){
         const row2 = document.createElement('tr');
         const row3 = document.createElement('tr');
         const row4 = document.createElement('tr');
-        const row5 = document.createElement('tr');
-          row5.innerHTML +=`<td> <img src="images/product-details/${producto.image[prodPos]} " style="width: 75%;" /> </td>`; 
-          row.innerHTML +=` <td> <h2> ${producto.name} </h2> </td>`;
+          row.innerHTML +=`<td rowspan="4"> <img src="images/product-details/${producto.image[prodPos]} " style="width: 100%;" /> </td>
+                            <td> <h2> ${producto.name} </h2> </td>`; 
           row2.innerHTML +=` <td>Cod: ${producto.id}</td>`;
           row3.innerHTML +=`<td> <span> <span> ${producto.price} </span> </span></td>`;
           row4.innerHTML +=`<td> <p> ¿Qué contiene? <br/> ${producto.items} </p> </td>`;
-          tabla.appendChild(row5);
+          tabla.appendChild(row);
+          tabla.appendChild(row2);
+          tabla.appendChild(row3);
+          tabla.appendChild(row4);
 
           if(producto.image.length==2){
             const row6 = document.createElement('tr');
@@ -46,12 +48,6 @@ function cargaDesayunos(){
 
             tabla.appendChild(row6);
           }
-          tabla.appendChild(row);
-          tabla.appendChild(row2);
-          tabla.appendChild(row3);
-          tabla.appendChild(row4);
-
-
       }else{
         console.log("Producto no encontrado")
       }
