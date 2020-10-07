@@ -320,5 +320,26 @@
     "name": "Desayuno Saludable ",
     "price": "$56000",
     "items": "• Bandeja<br/>• Mantel<br/>• Globo personalizado<br/>• Pin<br/>• Maní<br/>• Galletas integrales<br/>• Vaso pitillo con jugo 100% natural<br/>• Fruta porcionada<br/>• Fruta entera<br/>• Sándwich integral "
+  },
+  {
+    "image":["sorpresa43.jpeg", "sorpresa43-1.jpeg"],
+    "id":47,
+    "name": "Sorpresa Tik Tok",
+    "price": "$89000",
+    "items": "• Globo burbuja personalizado, <br/>• Aro de globos personalizados, <br/>• Figura Tik tok en yeso!, <br/>• Bonyurt, <br/>• Yogurt estándar, <br/>• Gelatina, <br/>• Yogurt m&m, <br/>• Galletas, <br/>• Gomas, <br/>• Golosinas<br/>• Bandeja patas móviles personalizada"
+  },
+  {
+    "image":["desayuno44.jpeg", "desayuno44-1.jpeg"],
+    "id":48,
+    "name": "Desayuno Peluche Pato",
+    "price": "$108000",
+    "items": "•  Bandeja decorada<br/>•  Dos Globos metalizados<br/>•  Pato peluche pequeño <br/>•  Pin feliz cumpleaños<br/>•  Jugo natural<br/>•  Maní Hatsu<br/>•  Fruta porcionada (piña, melón, uvas, fresas)<br/>•  Fruta entera (manzana y mandarina)<br/>•  Pancakes  acompañado de Miel maple y fresa picada<br/>•  Dos Cervezas Budweiser en lata <br/>•  Chocolates Ferrero Rocher x 3 unidades<br/>•  Chocolatina Milkyway <br/>•  Chocolate Toblerone "
+  },
+  {
+    "image":["sorpresa45.jpeg", "sorpresa45-1.jpeg"],
+    "id":49,
+    "name": "Sorpresa Capitán América",
+    "price": "$87000",
+    "items": "• Globo metalizado<br/>• Bombas<br/>• Banderin<br/>• Masmelos<br/>• Gomitas<br/>• Mini oreo<br/>• Alpin<br/>• Cereal<br/>• Yogurt<br/>• Bonyurt<br/>• Gelatina<br/>• Nutella<br/>• Mini chocorramo<br/>• Galletas<br/>• Nucita<br/>• Fruta<br/>• Huevo kinder<br/>• Postre personal<br/>• Tarro plástico<br/>• Bandeja personalizada y decorada patas móviles "
   }
 ]
