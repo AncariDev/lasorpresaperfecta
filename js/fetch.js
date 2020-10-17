@@ -11,11 +11,12 @@ function cargaDesayunos(){
     productos.forEach(producto => {
       let namehtml='';
       if(producto.id==prodId){
+        console.log(producto.type)
         const row = document.createElement('tr');
         const row2 = document.createElement('tr');
         const row3 = document.createElement('tr');
         const row4 = document.createElement('tr');
-          row.innerHTML +=`<td rowspan="4"> <img src="images/product-details/${producto.image[prodPos]} " style="width: 100%;" /> </td>
+          row.innerHTML +=`<td rowspan="4"> <img src="images/${producto.type}/${producto.image[prodPos]} " style="width: 100%;" /> </td>
                             <td> <h2> ${producto.name} </h2> </td>`; 
           row2.innerHTML +=` <td>Cod: ${producto.id}</td>`;
           row3.innerHTML +=`<td> <span> <span> ${producto.price} </span> </span></td>`;
@@ -48,8 +49,6 @@ function cargaDesayunos(){
 
             tabla.appendChild(row6);
           }
-      }else{
-        console.log("Producto no encontrado")
       }
     });
   }) // como se muestra la info
