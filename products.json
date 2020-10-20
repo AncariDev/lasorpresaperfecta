@@ -398,5 +398,13 @@
     "name": "Sorpresa Frutas y Flores",
     "price": "$112000",
     "items": "• Arreglo de flores y mariposas artificiales con chocolates importados<br/>• Pocillo<br/>• Variedad de frutas<br/>• Globo personalizado<br/>• Bandeja patas móviles decorada"
+  },
+  {
+    "image":["sorpresa47.jpeg"],
+    "id":51,
+    "type":"sorpresa",
+    "name": "Sorpresa Bienvenido Bebé",
+    "price": "$69000",
+    "items": "•  Bandeja decorada <br/>•  Dos globos personalizados<br/>•  Tarjeta (De - Para)<br/>•  Manta pequeña<br/>•  Pañitos húmedos<br/>•  Colonia pequeña<br/>•  Patines"
   }
 ]
