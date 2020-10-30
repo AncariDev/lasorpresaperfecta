@@ -406,5 +406,21 @@
     "name": "Sorpresa Bienvenido Bebé",
     "price": "$69000",
     "items": "•  Bandeja decorada <br/>•  Dos globos personalizados<br/>•  Tarjeta (De - Para)<br/>•  Manta pequeña<br/>•  Pañitos húmedos<br/>•  Colonia pequeña<br/>•  Patines"
+  },
+  {
+    "image":["sorpresa48.jpeg"],
+    "id":52,
+    "type":"sorpresa",
+    "name": "Canasta Tentación",
+    "price": "$95000",
+    "items": "• Pocillo personalizado<br/>• 2 fotos, 1 mensaje<br/>• Matera natural pequeña<br/>• Globo Burbuja personalizado<br/>• Pin<br/>• Canasta personalizada<br/>• Hamburguesa<br/>• Papas a la francesa<br/>• Malteada<br/>• Galletas de chocolate"
+  },
+  {
+    "image":["sorpresa49.jpeg"],
+    "id":53,
+    "type":"sorpresa",
+    "name": "Sorpresa Mágia",
+    "price": "$119000",
+    "items": "• Globo Burbuja<br/>• Pin<br/>• Pocillo<br/>• Kit Victoria Secret<br/>• Vaso pitillo (Con dulces variados)<br/>• Chocolates importados (Toleron, Hersheys, Kinder bueno, Ferrero Rocher)<br/>• Galletas cocosette<br/>• Galletas chip de chocolates<br/>• Papas pringles<br/>• Flores artificiales<br/>• Luces<br/>• Bandeja decorada"
   }
 ]
