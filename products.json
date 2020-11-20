@@ -422,5 +422,38 @@
     "name": "Sorpresa Mágia",
     "price": "$119000",
     "items": "• Globo Burbuja<br/>• Pin<br/>• Pocillo<br/>• Kit Victoria Secret<br/>• Vaso pitillo (Con dulces variados)<br/>• Chocolates importados (Toleron, Hersheys, Kinder bueno, Ferrero Rocher)<br/>• Galletas cocosette<br/>• Galletas chip de chocolates<br/>• Papas pringles<br/>• Flores artificiales<br/>• Luces<br/>• Bandeja decorada"
+  },
+  {
+    "image":["product23.jpeg"],
+    "id":54,
+    "type":"desayuno",
+    "name": "Desayuno Unicornio Foto",
+    "price": "$88000",
+    "items": "• Bandeja decorada<br/>• Globo personalizado<br/>• Globo metalizado unicornio<br/>• Foto<br/>• Banderín<br/>• Vaso pitillo con golosinas (masmelos, gomitas, choco breacks, mini chocorramo, quimbayas)<br/>• Agenda<br/>• Lámpara<br/>• Gelatina<br/>• Bonyurth<br/>• Galletas<br/>• Jugo en caja<br/>• Fruta porcionada<br/>• Fruta entera<br/>• Sandwich de jamon y queso"
+  },
+  {
+    "image":["sorpresa50.jpeg"],
+    "id":55,
+    "type":"sorpresa",
+    "name": "Sorpresa Picapiedras",
+    "price": "$64000",
+    "items": "• Caja decorada<br/>• Globo personalizado<br/>• Pin<br/>• Coronita<br/>• Chocolates importados<br/>• Papas importadas<br/>• Yogur<br/>• Cereal<br/>• Fruta<br/>• Sandwich de jamón y queso"
+  },
+  {
+    "image":["sorpresa51.jpeg"],
+    "id":56,
+    "type":"sorpresa",
+    "name": "Sorpresa Encanto",
+    "price": "$61000",
+    "items": "• Caja decorada<br/>• Pin<br/>• Globo personalizado<br/>• Coronita<br/>• Maní la especial<br/>• Fruta<br/>• Gomas <br/>• Cereal<br/>• Yogur<br/>• Jugo néctar<br/>• Galleta nacional<br/>• Chocolatina nacional"
+  },
+  {
+    "image":["sorpresa52.jpeg"],
+    "id":57,
+    "type":"sorpresa",
+    "name": "Sorpresa Deli",
+    "price": "$58000",
+    "items": "• Caja decorada<br/>• Pin<br/>• Globo personalizado<br/>• Galletas nacionales<br/>• Bonyurt<br/>• Fruta<br/>• Jugo néctar en caja<br/>• Sandwich<br/>• Cerveza importada"
   }
+
 ]
