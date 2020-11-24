@@ -181,7 +181,7 @@
     "type":"sorpresa",
     "name": "Sorpresa Globo Dinámico",
     "price": "$65000",
-    "items": "• Balde <br/>• Globo burbuja<br/>• Cerveza Importada grande<br/>• Cerveza Importada pequeña<br/>• Salchicha Zenú<br/>• Chocolate Toblerone<br/>• Maní la especial<br/>• Chocolatina importada"
+    "items": "• Balde <br/>• Globo burbuja<br/>• Cerveza Importada grande<br/>• Cerveza Importada pequeña<br/>• Salchicha Zenú<br/>• Chocolate Toblerone<br/>• Mami la especial<br/>• Chocolatina importada"
   },
   {
     "image":["sorpresa22.jpeg","sorpresa22-1.jpeg"],
@@ -454,6 +454,29 @@
     "name": "Sorpresa Deli",
     "price": "$58000",
     "items": "• Caja decorada<br/>• Pin<br/>• Globo personalizado<br/>• Galletas nacionales<br/>• Bonyurt<br/>• Fruta<br/>• Jugo néctar en caja<br/>• Sandwich<br/>• Cerveza importada"
+  },
+  {
+    "image":["sorpresa53.jpeg","sorpresa53-1.jpeg"],
+    "id":58,
+    "type":"sorpresa",
+    "name": "Sorpresa Temática Batman",
+    "price": "$95000",
+    "items": "• Caja decorada con luces  personalizada al gusto<br/>• Postre de tamaño personal<br/>• Chocolates importados<br/>• Coronita<br/>• Mug personalizado"
+  },
+  {
+    "image":["sorpresa54.jpeg"],
+    "id":59,
+    "type":"sorpresa",
+    "name": "Sorpresa Snack",
+    "price": "$126000",
+    "items": "• Bandeja decorada<br/>• Globos<br/>• Tabla de queso<br/>• Pasabocas<br/>• Te Hatsu<br/>• Flores artificiales<br/>• Mug personalizado (2 fotos)<br/>• Fruta<br/>• 2 mini Baileys"
+  },
+  {
+    "image":["sorpresa55.jpeg"],
+    "id":60,
+    "type":"sorpresa",
+    "name": "Sorpresa Snack",
+    "price": "$79000",
+    "items": "• Bandeja decorada<br/>• Pin<br/>• Globo personalizado<br/>• Luces<br/>• Fruta<br/>• Te Hatsu<br/>• Jugo de naranja<br/>• Sandwich de jamón y queso<br/>• Galletas<br/>• Yogur y cereal"
   }
-
 ]
