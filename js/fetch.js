@@ -16,7 +16,7 @@ function cargaDesayunos(){
         const row2 = document.createElement('tr');
         const row3 = document.createElement('tr');
         const row4 = document.createElement('tr');
-          row.innerHTML +=`<td rowspan="4"> <img src="images/${producto.type}/${producto.image[prodPos]} " style="width: 100%; padding-left: 100px;" /> </td>
+          row.innerHTML +=`<td rowspan="4"> <img src="images/${producto.type}/${producto.image[prodPos]} " style="width: 100%; " /> </td>
                             <td> <h2> ${producto.name} </h2> </td>`; 
           row2.innerHTML +=` <td>Cod: ${producto.id}</td>`;
           row3.innerHTML +=`<td> <span> <span> Contáctanos 322 3765091 </span> </span></td>`;
