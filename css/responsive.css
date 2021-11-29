@@ -76,7 +76,7 @@
 }
 
 .footer-widget .col-sm-2{
-	width: 33%;
+	width: 25%;
 	display: inline-block;
 	margin-bottom: 50px;
 }
@@ -346,6 +346,11 @@ ul.sub-menu{
 	width: 100%;
 }
 
+.social_menu{
+	font-family: cursive;
+    font-size: 20px;
+}
+
 .shop-menu ul li {
 	padding: 0;
 }
@@ -482,7 +487,7 @@ ul.sub-menu{
 }
 
 #similar-product .carousel-inner .item img{
-	margin-left: 4px;
+	margin-left: 0px;
 }
 
 .product-information{
