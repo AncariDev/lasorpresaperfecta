@@ -16,7 +16,7 @@
     "items": "• Pocillo <br/>• Chocolate Ferrero Rochert <br/>• Foto en papel fotográfico <br/>• Botella con jugo *** <br/>• Yogurt 9 Onzas <br/>• Cereal *** <br/>• Sándwich de jamón y queso *** <br/>• Galletas de sal *** <br/>• 2 globos grandes <br/>• Pin <br/>• Decoración (Mantel y moños) <br/>• Bandeja con patas móviles"
   },
   {
-    "image":["Desayuno2.jpg","Desayuno2-1.jpg"],
+    "image":["Desayuno2.jpeg","Desayuno2-1.jpg"],
     "id":3,
     "type":"desayuno",
     "name": "Desayuno Felicidad",
@@ -144,7 +144,7 @@
     "items": "• Dos globos en uno  <br/>• Un pin <br/>• Botella de Jugo <br/>• Paquete de cereal <br/>• Vaso de yogur <br/>• Milo en caja <br/>• Galletas <br/>• Una manzana <br/>• Una avena <br/>• Un paquete MyM <br/>• Vaso pitillo lleno de dulces (masmelos, chocobreaks y gomas)  <br/>• Mantel, caja y decoración."
   },
   {
-    "image":["sorpresa17.jpeg","sorpresa17-1.jpeg"],
+    "image":["sorpresa17.jpg","sorpresa17-1.jpeg"],
     "id":19,
     "type":"desayuno",
     "name": "Desayuno Papá + foto",
@@ -264,7 +264,7 @@
     "items": "•  Globo animal print<br/>•  Globo personalizado<br/>•  Vaso pitillo<br/>•  Milo<br/>•  Bonyurth<br/>•  Galletas<br/>•  Barquillos<br/>•  Golosinas  (Nucita, chocobreack, gomitas, kimbayas, mini chocorramo)<br/>•  Caja decorada con animalitos  "
   },
   {
-    "image":["desayuno32.jpeg"],
+    "image":["desayuno5.jpeg"],
     "id":34,
     "type":"desayuno",
     "name": "Desayuno Unicornio",
@@ -424,7 +424,7 @@
     "items": "• Globo Burbuja<br/>• Pin<br/>• Pocillo<br/>• Kit Victoria Secret<br/>• Vaso pitillo (Con dulces variados)<br/>• Chocolates importados (Toleron, Hersheys, Kinder bueno, Ferrero Rocher)<br/>• Galletas cocosette<br/>• Galletas chip de chocolates<br/>• Papas pringles<br/>• Flores artificiales<br/>• Luces<br/>• Bandeja decorada"
   },
   {
-    "image":["product23.jpeg"],
+    "image":["Desayuno17.jpeg"],
     "id":54,
     "type":"desayuno",
     "name": "Desayuno Unicornio Foto",
@@ -478,5 +478,134 @@
     "name": "Sorpresa Snack",
     "price": "$79000",
     "items": "• Bandeja decorada<br/>• Pin<br/>• Globo personalizado<br/>• Luces<br/>• Fruta<br/>• Te Hatsu<br/>• Jugo de naranja<br/>• Sandwich de jamón y queso<br/>• Galletas<br/>• Yogur y cereal"
+  },
+  {
+      "image":["sorpresa56.jpeg"],
+      "id":61,
+      "type":"sorpresa",
+      "name": "Sorpresa Blanco",
+      "price": "$0",
+      "items": ""
+  },
+  {
+        "image":["sorpresa59.jpg"],
+        "id":62,
+        "type":"sorpresa",
+        "name": "Sorpresa Temática",
+        "price": "$0",
+        "items": ""
+  }  
+  ,
+  {
+        "image":["sorpresa62.jpeg"],
+        "id":63,
+        "type":"sorpresa",
+        "name": "SORPRESA NUEVO CATÁLOGO 1",
+        "price": "$0",
+        "items": ""
+  }   ,
+  {
+        "image":["sorpresa61.jpeg"],
+        "id":64,
+        "type":"sorpresa",
+        "name": "SORPRESA CABALLERO",
+        "price": "$0",
+        "items": ""
+  }   ,
+  {
+        "image":["sorpresa63.jpeg"],
+        "id":65,
+        "type":"sorpresa",
+        "name": "SORPRESA NUEVO CATÁLOGO 2",
+        "price": "$0",
+        "items": ""
+  } ,
+  {
+        "image":["sorpresa64.jpeg"],
+        "id":66,
+        "type":"sorpresa",
+        "name": "SORPRESA NUEVO CATÁLOGO 3",
+        "price": "$0",
+        "items": ""
+  } ,
+  {
+        "image":["sorpresa65.jpeg"],
+        "id":67,
+        "type":"sorpresa",
+        "name": "SORPRESA NUEVO CATÁLOGO 4",
+        "price": "$0",
+        "items": ""
+  } ,
+  {
+        "image":["Desayuno1.jpeg"],
+        "id":68,
+        "type":"desayuno",
+        "name": "DESAYUNO NUEVO CATÁLOGO 1",
+        "price": "$0",
+        "items": ""
+  } ,
+  {
+        "image":["Desayuno15.jpeg"],
+        "id":69,
+        "type":"desayuno",
+        "name": "DESAYUNO NUEVO CATÁLOGO 2",
+        "price": "$0",
+        "items": ""
+  },
+  {
+        "image":["Desayuno16.jpeg"],
+        "id":70,
+        "type":"desayuno",
+        "name": "DESAYUNO NUEVO CATÁLOGO 3",
+        "price": "$0",
+        "items": ""
+  },
+  {
+        "image":["sorpresa57.jpeg"],
+        "id":71,
+        "type":"sorpresa",
+        "name": "SORPRESA FRUTAS Y FLORES",
+        "price": "$0",
+        "items": ""
+  },
+  {
+        "image":["sorpresa58.jpeg"],
+        "id":72,
+        "type":"sorpresa",
+        "name": "SORPRESA RAMO DE FLORES",
+        "price": "$0",
+        "items": ""
+  },
+  {
+        "image":["sorpresa60.jpeg"],
+        "id":73,
+        "type":"sorpresa",
+        "name": "SORPRESA FRUTAL",
+        "price": "$0",
+        "items": ""
+  },
+  {
+        "image":["flores7.png"],
+        "id":74,
+        "type":"sorpresa",
+        "name": "SORPRESA NUEVO CATÁLOGO 1",
+        "price": "$0",
+        "items": ""
+  },
+  {
+        "image":["flores8.jpeg"],
+        "id":75,
+        "type":"sorpresa",
+        "name": "SORPRESA NUEVO CATÁLOGO 2",
+        "price": "$0",
+        "items": ""
+  },
+  {
+        "image":["sorpresa66.jpeg"],
+        "id":76,
+        "type":"sorpresa",
+        "name": "SORPRESA NUEVO CATÁLOGO 3",
+        "price": "$0",
+        "items": ""
   }
-]
+  ]
