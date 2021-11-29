@@ -6,7 +6,7 @@ function cargaDesayunos(){
   var prodId = getParameterByName('id'); 
   var prodPos = getParameterByName('pos');
   fetch('products.json')
-  .then(respuesta => respuesta.json())  // formato en el que se desea obtener la informacion
+  .then(respuesta => respuesta.json())  // formato en el que se desea obtener la informacion ${producto.price}
   .then(productos => {
     productos.forEach(producto => {
       let namehtml='';
@@ -16,39 +16,17 @@ function cargaDesayunos(){
         const row2 = document.createElement('tr');
         const row3 = document.createElement('tr');
         const row4 = document.createElement('tr');
-          row.innerHTML +=`<td rowspan="4"> <img src="images/${producto.type}/${producto.image[prodPos]} " style="width: 100%;" /> </td>
+          row.innerHTML +=`<td rowspan="4"> <img src="images/${producto.type}/${producto.image[prodPos]} " style="width: 100%; padding-left: 100px;" /> </td>
                             <td> <h2> ${producto.name} </h2> </td>`; 
           row2.innerHTML +=` <td>Cod: ${producto.id}</td>`;
-          row3.innerHTML +=`<td> <span> <span> ${producto.price} </span> </span></td>`;
-          row4.innerHTML +=`<td> <p> ¿Qué contiene? <br/> ${producto.items} </p> </td>`;
-          tabla.appendChild(row);
+          row3.innerHTML +=`<td> <span> <span> Contáctanos 322 3765091 </span> </span></td>`;
+          row4.innerHTML +=`<td> <p>  <br/>  </p> </td>`;
+          tabla.appendChild(row); //¿Qué contiene? ${producto.items}
           tabla.appendChild(row2);
           tabla.appendChild(row3);
           tabla.appendChild(row4);
 
-          if(producto.image.length==2){
-            const row6 = document.createElement('tr');
-            row6.innerHTML +=`<td>
-            <div id="similar-product" class="carousel slide" data-ride="carousel">
-                <!-- Wrapper for slides -->
-                  <div class="carousel-inner">
-                  <div class="item active">
-                    <a href="product-details.html?producto='desayuno'&id=${producto.id}&pos=0"><img src="images/product-details/mini/${producto.image[0]}" alt=""></a>
-                    <a href="product-details.html?producto='desayuno'&id=${producto.id}&pos=1"><img src="images/product-details/mini/${producto.image[1]}" alt=""></a>
-                  </div>
-                </div>
-                <!-- Controls -->
-                <a class="left item-control" href="#similar-product" data-slide="prev">
-                <i class="fa fa-angle-left"></i>
-                </a>
-                <a class="right item-control" href="#similar-product" data-slide="next">
-                <i class="fa fa-angle-right"></i>
-                </a>
-            </div>
-            </td>`;
-
-            tabla.appendChild(row6);
-          }
+        
       }
     });
   }) // como se muestra la info
